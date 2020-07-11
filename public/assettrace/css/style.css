@@ -217,11 +217,12 @@ h4 {
 .slider-text {
   position: relative;
   left: 30%;
-  top:10%;
+  top:20%;
   text-align: left;
 }
 .slid{
   font-size:25px;
+  line-height: 1.6;
 }
 
 .slider-text p,

@@ -10,14 +10,8 @@
               data-wow-delay="0.5s"
             >
               <div class="slider-text">
-                <h4 class="slid">Traceline is an enterprising </h4>
-                <p class="slid">
-                  transpotort and haulage facilitator, committed   
-                </p>
-                <p class="slid">
-                  connecting customers with their 
-                </p>
-                <p class="slid">goods in transit.</p>
+                <p class="slid">Traceline is an enterprising </br>
+                  transport and haulage facilitator, committed </br> connecting customers with their</br>goods in transit.</p>
               </div>
             </div>
             <div
@@ -28,7 +22,7 @@
               <div class="slider-text_1">
                 <form class="" action="#" method="" >
                   <input
-                    class="form-control form-input  "
+                    class="form-control form-input"
                     type="text"
                     placeholder="Search"
                     aria-label="Search"
