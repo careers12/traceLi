@@ -11,6 +11,7 @@
     <link href="{{asset('assettrace/css/bootstrap.min.css')}}" rel="stylesheet" />
     <link rel="stylesheet" href="{{asset('assettrace/css/all.css')}}" />
     <link rel="stylesheet" href="{{asset('assettrace/css/jquery.bxslider.css')}}" />
+    <link rel="icon" type="image/png" sizes="32x32" href="{{asset('assettrace/images/about/track-bird-3.png')}}">
     <link
       rel="stylesheet"
       type="text/css"
