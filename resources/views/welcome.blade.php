@@ -13,7 +13,7 @@
                 <p class="slid">Traceline is an enterprising </br>
                   transport and haulage facilitator, committed </br> connecting customers with their</br>goods in transit.</p>
               </div>
-              
+
             </div>
             <div
               class="col-md-6  wow fadeInLeft text-center text-style"
@@ -59,7 +59,6 @@
               tonne artics with curtain-sided or flat-bed trailers.
                <!-- <a href="genhauread.html" title="" class="readmore-btn"
               >Read more</a> -->
-
             </p>
           </div>
         </div>
