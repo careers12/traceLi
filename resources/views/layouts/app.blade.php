@@ -87,7 +87,7 @@
             data-wow-delay="0.2s"
           >
             <h2 style="color:Red;">TRACELINE</h2>
-            <p style="color:#ffff;">Traceline is an enterprising transpotort and haulage facilitator, committed connecting customers with their goods in transit.
+            <p style="color:#ffff;">Traceline is an enterprising transport and haulage facilitator, committed connecting customers with their goods in transit.
             </p>
 
             <ul class="social-network">
