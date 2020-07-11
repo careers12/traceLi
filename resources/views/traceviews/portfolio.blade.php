@@ -85,7 +85,7 @@
         </div>
         <div class="wow fadeInLeft" data-wow-offset="0" data-wow-delay="0.6s">
           <div class="col-md-3">
-            <img src="images/about/image1.jpeg" alt="" />
+            <img src="{{asset('assettrace/images/about/image1.jpeg')}}" alt="" />
             <h3>Terry Aboagye</h3>
             <p>
               CEO
@@ -117,7 +117,7 @@
 
         <div class="wow fadeInLeft" data-wow-offset="0" data-wow-delay="0.3s">
           <div class="col-md-3">
-            <img src="images/about/image1.jpeg" alt="" />
+            <img src="{{asset('assettrace/images/about/image1.jpeg')}}" alt="" />
             <h3>Isaac Essiful</h3>
             <p>
               Operational Manager

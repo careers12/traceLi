@@ -26,7 +26,7 @@
               data-wow-delay="0.5s"
             >
               <div class="slider-text_1">
-                <form class="" action="" method="post" >
+                <form class="" action="#" method="" >
                   <input
                     class="form-control form-input  "
                     type="text"

@@ -42,7 +42,7 @@
           
           </div>
           <!-- <div id="errormessage"></div> -->
-          <form action="contact.php" method="POST" role="form" class="">
+          <form action="#" method="" role="form" class="">
             <div class="row">
             <div class="form-group col-md-6">
               <input type="text" name="fname" class="form-control" id="fname" placeholder="Your First Name" data-rule="minlen:4" data-msg="Please enter at least 4 chars" />
@@ -69,7 +69,5 @@
           </form>
         </div>
       </div>  
-    
   </div>
-
   @endsection

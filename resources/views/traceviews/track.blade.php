@@ -24,7 +24,7 @@
       <div class="col-lg-2"></div>
         <div class="col-lg-8 ">
           <div class="track-form-holder">
-            <form class="" action="" method="post">
+            <form class="" action="" method="">
               <input
                 class="form-control form-input  "
                 type="text"

@@ -30,7 +30,7 @@
   </head>
   <body>
     <header>
-    
+
       <nav class="navbar navbar-default navbar-static-top" role="navigation">
         <div class="navigation">
           <div class="container">
@@ -47,7 +47,7 @@
                 <span class="icon-bar"></span>
               </button>
               <div class="navbar-brand">
-                <a href="index.html"><img src="{{asset('assettrace/images/about/image6.jpeg')}}" alt="" style="margin-top:-7px;" class="img-responsive" /></a>
+                <a href="{{route('welcome')}}"><img src="{{asset('assettrace/images/about/image6.jpeg')}}" alt="" style="margin-top:-7px;" class="img-responsive" /></a>
               </div>
             </div>
 
@@ -67,7 +67,7 @@
                   <li role="presentation">
                     <a href="{{route('page.contact')}}">Contact</a>
                   </li>
-                  <li role="presentation"><a href="{{route('page.account')}}">My ACCOUNT</a></li>
+                  <!-- <li role="presentation"><a href="{{route('page.account')}}">My ACCOUNT</a></li> -->
                 </ul>
               </div>
             </div>
@@ -86,7 +86,7 @@
             data-wow-delay="0.2s"
           >
             <h2 style="color:Red;">TRACELINE</h2>
-            <p>Traceline is an enterprising transpotort and haulage facilitator, committed connecting customers with their goods in transit.
+            <p style="color:#ffff;">Traceline is an enterprising transpotort and haulage facilitator, committed connecting customers with their goods in transit.
             </p>
 
             <ul class="social-network">
@@ -154,24 +154,28 @@
         <div class="container">
           <div class="row">
             <div class="col-md-6">
-              &copy;
+              &copy; Traceline 2020
               <div class="credits">
-                Designed by <a href="">BootstrapMade</a>
+                <a href=""></a>
               </div>
             </div>
             <div class="col-md-6">
               <ul class="pull-right">
-                <li role="presentation">
-                  <a href="index.html" class="active">Home</a>
-                </li>
-                <li role="presentation">
-                  <a href="services.html">Services</a>
-                </li>
-                <li role="presentation"><a href="portfolio.html">About</a></li>
-                <li role="presentation"><a href="track.html">Track</a></li>
-                <li role="presentation"><a href="contact.php">Contact</a></li>
-                <li role="presentation"><a href="account.php">My ACCOUNT</a></li>
-              </ul>
+                  <li role="presentation">
+                    <a href="{{route('welcome')}}" class="">Home</a>
+                  </li>
+                  <li role="presentation">
+                    <a href="{{route('page.service')}}">Services</a>
+                  </li>
+                  <li role="presentation"><a href="{{route('page.track')}}">Track</a></li>
+                  <li role="presentation">
+                    <a href="{{route('page.about')}}">About</a>
+                  </li>
+                  <li role="presentation">
+                    <a href="{{route('page.contact')}}">Contact</a>
+                  </li>
+                  <!-- <li role="presentation"><a href="{{route('page.account')}}">My ACCOUNT</a></li> -->
+                </ul>
             </div>
           </div>
           <div class="pull-right">
