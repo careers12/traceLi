@@ -13,6 +13,7 @@
                 <p class="slid">Traceline is an enterprising </br>
                   transport and haulage facilitator, committed </br> connecting customers with their</br>goods in transit.</p>
               </div>
+              
             </div>
             <div
               class="col-md-6  wow fadeInLeft text-center text-style"
