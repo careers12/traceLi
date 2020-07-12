@@ -6,32 +6,19 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>traceline</title>
-
     <!-- Bootstrap -->
     <link href="{{asset('assettrace/css/bootstrap.min.css')}}" rel="stylesheet" />
     <link rel="stylesheet" href="{{asset('assettrace/css/all.css')}}" />
     <link rel="stylesheet" href="{{asset('assettrace/css/jquery.bxslider.css')}}" />
     <link rel="icon" type="image/png" sizes="32x32" href="{{asset('assettrace/images/about/track-bird-3.png')}}">
-    <link
-      rel="stylesheet"
-      type="text/css"
-      href="{{asset('assettrace/css/isotope.css')}}"
-      media="screen"
-    />
-    <link rel="stylesheet" href="{{asset('assettrace/css/animate.css')}}" />
-    <link
-      rel="stylesheet"
-      href="{{asset('assettrace/js/fancybox/jquery.fancybox.css')}}"
-      type="text/css"
-      media="screen"
-    />
+    <link rel="stylesheet" type="text/css" href="{{asset('assettrace/css/isotope.css')}}" media="screen"/>
+    <link rel="stylesheet" href="{{asset('assettrace/css/animate.css')}}"/>
+    <link rel="stylesheet" href="{{asset('assettrace/js/fancybox/jquery.fancybox.css')}}" type="text/css" media="screen"/>
     <link href="{{asset('assettrace/css/prettyPhoto.css')}}" rel="stylesheet" />
     <link href="{{asset('assettrace/css/style.css')}}" rel="stylesheet" />
-
   </head>
   <body>
     <header>
-
       <nav class="navbar navbar-default navbar-static-top" role="navigation">
         <div class="navigation">
           <div class="container">
@@ -62,11 +49,9 @@
                     <a href="{{route('page.service')}}">Services</a>
                   </li>
                   <li role="presentation"><a href="{{route('page.track')}}">Track</a></li>
-                  <li role="presentation">
-                    <a href="{{route('page.about')}}">About</a>
+                  <li role="presentation"><a href="{{route('page.about')}}">About</a>
                   </li>
-                  <li role="presentation">
-                    <a href="{{route('page.contact')}}">Contact</a>
+                  <li role="presentation"><a href="{{route('page.contact')}}">Contact</a>
                   </li>
                   <!-- <li role="presentation"><a href="{{route('page.account')}}">My ACCOUNT</a></li> -->
                 </ul>
@@ -89,7 +74,6 @@
             <h2 style="color:Red;">TRACELINE</h2>
             <p style="color:#ffff;">Traceline is an enterprising transport and haulage facilitator, committed connecting customers with their goods in transit.
             </p>
-
             <ul class="social-network">
               <li>
                 <a href="#" data-placement="top" title="Facebook"
@@ -133,7 +117,6 @@
               <li>Fraud Prevention</li>
             </ul>
           </div>
-
           <div
             class="col-md-4 wow fadeInUp"
             data-wow-offset="0"
