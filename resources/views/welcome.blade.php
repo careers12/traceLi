@@ -11,7 +11,7 @@
             >
               <div class="slider-text">
                 <p class="slid">Traceline is an enterprising </br>
-                  transport and haulage facilitator, committed </br> connecting customers with their</br>goods in transit.</p>
+                  transport and haulage facilitator, committed </br> connecting customers with </br> their goods in transit.</p>
               </div>
 
             </div>
@@ -53,9 +53,9 @@
             <i class="fas fa-trailer fa-3x"></i>
             <h4>General Haulage</h4>
             <p>
-              Our fleet of trucks offers a wide range of flexible haulage options.Each of our 
-              vehicles are road worthy coupled with experienced drivers which helps protect your goods 
-              Vehicles include: Transit Vans, curtain-sided trucks (5/15/20/25/30 metric tonnes), 44 
+              Our fleet of trucks offers a wide range of flexible haulage options.Each of our
+              vehicles are road worthy coupled with experienced drivers which helps protect your goods
+              Vehicles include: Transit Vans, curtain-sided trucks (5/15/20/25/30 metric tonnes), 44
               tonne artics with curtain-sided or flat-bed trailers.
                <!-- <a href="genhauread.html" title="" class="readmore-btn"
               >Read more</a> -->
@@ -67,11 +67,11 @@
             <i class="fas fa-truck-moving fa-3x"></i>
             <h4>Contract Distribution</h4>
             <p>
-              Traceline is experienced in contract distribution to support your 
-              sales and marketing needs. We supply vehicles of all sizes 
-              and also qualified drivers which enhance day-to-day distribution of services.Our 
-              contract distribution offers each company an all-encompassing benefit such as 
-              financial, brand and operational. 
+              Traceline is experienced in contract distribution to support your
+              sales and marketing needs. We supply vehicles of all sizes
+              and also qualified drivers which enhance day-to-day distribution of services.Our
+              contract distribution offers each company an all-encompassing benefit such as
+              financial, brand and operational.
               <!-- <a href="condisread.html" title="" class="readmore-btn"
               >Read more</a> -->
             </p>
@@ -83,7 +83,7 @@
             <h4>Fleet Management</h4>
             <p>
               Truck owners and individual investors who would like a steady stream of income with an invaluable peace of mind from daily operational and systematic hurdles can register with us.
-              Over the years, we have worked with several interested third parties and managed their trucks, giving them guaranteed regular income. 
+              Over the years, we have worked with several interested third parties and managed their trucks, giving them guaranteed regular income.
             </p>
           </div>
         </div>
@@ -101,9 +101,9 @@
                 <div class="serve-image-text">
                   <h5>Dry Van</h5>
                   <p>
-                    Our range of 5-30 tonnes dry vans provides 
+                    Our range of 5-30 tonnes dry vans provides
                     clients with different sizes for specific quantum of their goods.
-                    These trucks moves across the length and breadth of the nation.
+                    These trucks moves across the length and breadth of the...
 
                   </p>
                 </div>
@@ -134,7 +134,7 @@
                 <div class="serve-image-text">
                   <h5>Flatbed</h5>
                   <p>
-                    We offer unmatched convenience services to our customers through our 
+                    We offer unmatched convenience services to our customers through our
                     standard flatbed trailers which come in a wide variety of sizes and dimensions.
                   </p>
                 </div>
@@ -177,7 +177,7 @@
                       class="fa fa-plus"
                       style="color:#ffff !important;margin-bottom:-20px !important;"
                     ></i>
-                  </div> 
+                  </div>
                 </div>
               </div>
             </div>
@@ -238,7 +238,7 @@
           />
         </div>
 
-        
+
       </div>
     </div>
 
@@ -288,10 +288,10 @@
               </h4>
               <p>
                 Do all payment through our mobile application. All anticipated fraudulent actions are considered.
-                Make your payments with no fear. You are secured. 
+                Make your payments with no fear. You are secured.
               </p>
             </div>
-          </div> 
+          </div>
         </div>
         </div>
       </div>
@@ -369,4 +369,3 @@
       </div>
     </div>
   @endsection
-    
